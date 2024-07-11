@@ -1,4 +1,4 @@
-# Flappy Block Game in Python using Pygame
+# Flappy Block
 
 This is based off of the Flappy Bird game using the Pygame library in Python.
 
