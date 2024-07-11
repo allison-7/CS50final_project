@@ -2,6 +2,9 @@
 
 This is based off of the Flappy Bird game using the Pygame library in Python.
 
+## Video Demo
+https://youtu.be/2VQajY5JqEo
+
 ## Table of Contents
 - [Game Description](#game-description)
 - [Installation](#installation)
